@@ -1,0 +1,14 @@
+ma\app\web\HelloServlet.class
+ma\filter\AuthFilter.class
+ma\app\web\SuccessServlet.class
+ma\app\web\TraitementServlet.class
+ma\app\web\ProduitServlet.class
+ma\app\web\LogoutServlet.class
+ma\app\web\UploadServlet.class
+ma\app\web\CookieServlet.class
+ma\app\web\DashboardServlet.class
+ma\listener\AppInitListener.class
+ma\app\web\LoginServlet.class
+ma\app\model\ProduitDAO.class
+ma\app\model\Produit.class
+ma\app\web\InscriptionServlet.class
